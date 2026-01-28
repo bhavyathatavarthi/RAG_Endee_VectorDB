@@ -1,4 +1,4 @@
-# 📘 PDF RAG System using Ollama & Vector Search
+# 📘 PDF RAG System using ENDEE Vector DataBase
 
 This project implements a **Retrieval-Augmented Generation (RAG)** pipeline that allows you to ask questions from a PDF document using **semantic search** and a **local LLM (Ollama)**.
 
@@ -12,7 +12,7 @@ The system retrieves the most relevant chunks from the PDF using vector similari
 - ✂️ Chunk documents for better retrieval
 - 🔢 Generate embeddings using Sentence Transformers
 - 🧠 Semantic search using a vector index
-- 🤖 Local LLM inference using **Ollama (Gemma / LLaMA)**
+- 🤖 Local LLM inference using **Ollama (Gemma)**
 - ❌ No OpenAI / cloud dependency
 - ✅ Answers grounded only in PDF context
 
